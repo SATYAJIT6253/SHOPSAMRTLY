@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SHOPSAMRTLY/static/css/main.2e1c666e.css",
+    "main.js": "/SHOPSAMRTLY/static/js/main.1a9fcc6c.js",
+    "index.html": "/SHOPSAMRTLY/index.html",
+    "main.2e1c666e.css.map": "/SHOPSAMRTLY/static/css/main.2e1c666e.css.map",
+    "main.1a9fcc6c.js.map": "/SHOPSAMRTLY/static/js/main.1a9fcc6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e1c666e.css",
+    "static/js/main.1a9fcc6c.js"
+  ]
+}
