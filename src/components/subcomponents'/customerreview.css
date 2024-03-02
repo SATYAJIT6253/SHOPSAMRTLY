@@ -1,0 +1,43 @@
+.review-card{
+    
+    width:30vw;
+    height:200px;
+    background-color: aliceblue;
+    border: 1px solid whitesmoke;
+    border-radius: 20%;
+    margin: 15px;
+}
+.review-card img{
+   width:80px;
+   height:80px;
+   border-radius: 50%;
+}
+.review-card1{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.review-card2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.name{
+    color:orange;
+}
+.username{
+    color: brown;
+}
+@media only screen and (max-width: 450px) {
+    .review-card{
+        
+        width:100vw;
+        height:270px;
+        padding: 20px;
+    }
+    .review-card1{
+        
+        margin-bottom: 20px;
+    }
+}

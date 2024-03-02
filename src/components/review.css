@@ -1,0 +1,23 @@
+.review-container{
+    display: flex;
+    flex-wrap: wrap;
+    width:70vw;
+    justify-content: center;
+    align-items: center;
+    margin-inline: auto;
+}
+.review-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-block: 20px;
+   
+}
+@media only screen and (max-width: 450px) {
+    .review-heading{
+        width:70%;
+        
+        margin-inline: 100px;
+    }
+
+}
