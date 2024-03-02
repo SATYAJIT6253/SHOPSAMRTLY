@@ -11,6 +11,7 @@ function Home() {
       const data = await res.json();
       SetItems(data);
       console.log(data);
+      
     } catch (error) {
       console.log("errr in fetching");
     }
